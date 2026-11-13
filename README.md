@@ -1,13 +1,13 @@
 # Cat Names AI
 
-A free cat-name generator: filter by style, coat colour and personality.
+Cat Names AI — find the perfect cat name by style, color and personality (free browser tool).
 
-## Links
+The tool itself is at [cat name generator](https://catnamesai.com/cat-name-generator).
 
-- [cat name generator](https://catnamesai.com/cat-name-generator)
+There is a longer walkthrough at [cat names by colour and gender](https://catnamesai.com/cat-names).
 
-- [Main site](https://catnamesai.com/)
+Project home: [Cat Names AI](https://catnamesai.com/).
 
-## Notes
+---
 
-Independent project. Free to use in the browser; no account required.
+Independent project. Free to use in the browser, no account required.
